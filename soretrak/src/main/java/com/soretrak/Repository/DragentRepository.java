@@ -22,4 +22,6 @@ public interface DragentRepository extends JpaRepository<Dragent,Long> {
 	
 	
 	
+	
+	
 }
